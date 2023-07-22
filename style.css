@@ -75,11 +75,11 @@ sub{
 }
 li{
     padding: 1.2%;
-    list-style-image: url(icons8-checkmark-16.png);
+    list-style-image: url(BlueTick.png);
 }
 
 li:last-child{
-    list-style-image: url(last6.png);
+    list-style-image: url(blackTick.png)
 }
 
 
