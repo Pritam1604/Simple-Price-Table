@@ -78,7 +78,7 @@ li{
     list-style-image: url(icons8-checkmark-16.png);
 }
 
-.last{
+li:last-child{
     list-style-image: url(last6.png);
 }
 
